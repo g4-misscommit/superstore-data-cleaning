@@ -54,6 +54,17 @@ This project provided practical experience with Excel data inspection,
 duplicate checking, missing-value detection, date formatting,
 and basic data-type validation.
 
+## Dataset Source
+
+The dataset used in this project was obtained from Kaggle:
+
+- **Dataset:** Superstore Dataset - Final
+- **Author:** Vivek468
+- **Source:** [Superstore Dataset - Final on Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+This project was created for personal learning and portfolio purposes.
+Credit for the original dataset belongs to its respective creator.
+
 ## Project Type
 
 Personal practice project using a publicly available dataset.
